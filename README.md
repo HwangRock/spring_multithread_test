@@ -7,7 +7,9 @@ Jmeter로 부하테스트를 가하며 측정합니다.
 ---
 
 ### 실험 보고서
-(velog에 작성해서 올릴 예정)
+
+https://velog.io/@hwangrock1220/%EC%84%9C%EB%B2%84%EC%84%B1%EB%8A%A5-spring%EC%97%90%EC%84%9C-JMeter%EB%A1%9C-%EB%A9%80%ED%8B%B0-%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%8B%A4%ED%97%98
+
 
 ---
 
